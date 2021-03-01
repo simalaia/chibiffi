@@ -1,0 +1,2 @@
+(c-include "hello.h")
+(define-c void hello (string))
